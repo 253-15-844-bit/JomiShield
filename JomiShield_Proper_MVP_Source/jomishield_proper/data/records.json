@@ -1,0 +1,34 @@
+[
+  {
+    "record_id": "JS-1001",
+    "parcel_id": "DHAKA-MOCK-001",
+    "district": "Demo District",
+    "upazila": "Demo Upazila",
+    "mouza": "Demo Mouza",
+    "dag": "125",
+    "khatian": "56",
+    "owner_label": "Sample Owner A",
+    "area_decimal": 10.0,
+    "status": "Reference",
+    "lat": 23.8103,
+    "lon": 90.4125,
+    "notes": "Synthetic demonstration record only.",
+    "updated_at": "2026-10-01 10:00"
+  },
+  {
+    "record_id": "JS-1002",
+    "parcel_id": "DHAKA-MOCK-002",
+    "district": "Demo District",
+    "upazila": "Demo Upazila",
+    "mouza": "Demo Mouza",
+    "dag": "220",
+    "khatian": "89",
+    "owner_label": "Sample Owner B",
+    "area_decimal": 6.5,
+    "status": "Reference",
+    "lat": 23.814,
+    "lon": 90.418,
+    "notes": "Synthetic demonstration record only.",
+    "updated_at": "2026-10-02 11:30"
+  }
+]

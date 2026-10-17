@@ -1,0 +1,19 @@
+JomiShield — 3-minute demo script (Bangla)
+
+0:00–0:20 | Intro
+“এটি JomiShield, একটি prototype যা sample land record তুলনা করে discrepancy alert দেখায় এবং ম্যাপে আঁকা সীমানা থেকে আনুমানিক আয়তন হিসাব করে।”
+
+0:20–0:55 | Dashboard + Records
+“Dashboard-এ sample record ও alert count দেখা যায়। Land Records-এ synthetic parcel data দেখা এবং নতুন sample record যোগ করা যায়।”
+
+0:55–1:35 | Verification
+“Compare & Verify থেকে DHAKA-MOCK-001 বেছে নিয়ে area 10 decimal থেকে 7 decimal করি। Compare চাপলে system পার্থক্য দেখায় এবং review-required alert তৈরি করে।”
+
+1:35–2:15 | Map measurement
+“Map & Area-তে polygon tool দিয়ে কয়েকটি boundary point ক্লিক করি। Polygon শেষ করলে আনুমানিক area square metres, square feet, decimal এবং acres-এ দেখা যায়।”
+
+2:15–2:40 | Alert history
+“Alerts & History-তে discrepancy-এর বিস্তারিত দেখা যায় এবং reviewed হিসেবে mark করা যায়।”
+
+2:40–3:00 | Limitations
+“এটি synthetic data-ভিত্তিক prototype। এটি সরকারি রেকর্ডের live integration নয় এবং alert জালিয়াতির প্রমাণ বা legal ownership determination নয়।”
